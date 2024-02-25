@@ -11,14 +11,14 @@ After registration, the voter is assigned a secret Voter ID with which he/she ca
   import `votesystem.sql` file from phpmyadmin.
 
   ```ADMIN LOGIN DETAILS 
-  URL: http://localhost/votesystem/admin/index.php
+  URL: http://localhost/Online-voting-system/admin/index.php
   Username : sp
   Password : password
   ```
 #### Run : 
 Click on 'Voting Punel' button
 ```FOR RUN AND VOTERS LOGIN DETAILS 
-URL: http://localhost/votesystem/index1.html
+URL: http://localhost/Online-voting-system/index1.html
 id: 039
 password: 2LB21CS039
  ```
