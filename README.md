@@ -17,8 +17,8 @@ After registration, the voter is assigned a secret Voter ID with which he/she ca
   ```
 #### Run : 
 Click on 'Voting Punel' button
-''' 
-http://localhost/votesystem/index1.html
+```FOR RUN AND VOTERS LOGIN DETAILS 
+URL: http://localhost/votesystem/index1.html
 id: 039
 password: 2LB21CS039
-'''
+ ```
