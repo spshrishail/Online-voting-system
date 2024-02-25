@@ -1,4 +1,4 @@
-# Online-voting-system
+# online-voting-system
 
 ### Description : 
 In "ONLINE VOTING SYSTEM" a voter can use his/her voting right online without any difficulty. He/She has to be registered first for him/her to vote. Registration is mainly done by the system administrator for security reasons. The system Adminstrator registers the voters on a special site of the system visited by him only by simply filling a registration form to register voter.
